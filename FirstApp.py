@@ -1,3 +1,5 @@
-def dire_bonjour():
-    print("bonjour tout le monde")
+def dire_bonjour(a,b):
+    return a*b
+    print("bonjour je suis la ")
+
     
